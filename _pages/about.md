@@ -15,12 +15,13 @@ Hello! I'm Shahab Davoudi Kashani, a passionate environmental engineer. As a rec
 
 My main research interests include:
 
-Hydrothermal Conversion of Wastes
-Pyrolysis
-Waste Conversion
-Catalysis
-Machine Learning for Process Optimization
-Simulation
+  * Hydrothermal Conversion of Wastes
+  * Pyrolysis
+  * Waste Conversion
+  * Catalysis
+  * Machine Learning for Process Optimization
+  * Simulation
+
 
 My Background and Journey
 ======
