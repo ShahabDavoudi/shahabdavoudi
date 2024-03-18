@@ -11,29 +11,7 @@ locale                   : "en-US"
 title                    : "Shahab Davoudi Kashani Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shahab Davoudi Kashani"
-description              : &description "Shahab Davoudi Kashani Personal Homepage
-I am Shahab Davoudi Kashani, an enthusiastic and dedicated environmental engineer with a keen interest in sustainable energy solutions. Holding a Master's degree in Environmental Engineering, I am driven by a passion for continuous learning and staying up-to-date with the ever-evolving field of waste conversion and renewable energy technologies.
-
-My main research interests include:
-
-Hydrothermal Conversion
-Pyrolysis
-Waste Conversion
-Catalysis
-Machine Learning for Process Optimization
-I am also interested in further exploring:
-
-Membrane Technologies
-Air Pollution Mitigation
-Renewable Energy Sources
-Academic Pursuits
-I find immense fulfillment in being part of the academic world, where challenging research and nurturing the minds of future engineers go hand in hand. Guiding students through research endeavors and academic projects is a privilege I deeply cherish.
-
-Sustainable Solutions for a Better Tomorrow
-In my view, environmental stewardship is not confined to laboratories—it is a guiding force for society's progress towards a sustainable future. I am committed to contributing to this movement, striving to advance the boundaries of knowledge and technology in the realm of waste conversion and renewable energy.
-
-Seeking PhD Opportunities
-If you are seeking motivated PhD candidates who share a passion for cutting-edge research in the aforementioned domains, I would be honored if you considered me as a potential candidate. My dedication to environmental engineering and sustainable solutions is unwavering."
+description              : &description "Shahab Davoudi Kashani "
 url                      : https://shahabdavoudi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -44,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Shahab Davoudi Kashani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " Master's Degree in Chemical Engineering with a Specialization in Environmental Engineering "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "davoudi.sha@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
