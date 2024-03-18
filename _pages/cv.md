@@ -45,10 +45,14 @@ Teaching
 * Teacher Assistant for Physical Chemistry at University of Tehran 
 
 
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 Operator at GTL lab 
 
+Download Full Version
+    {% shahabdavoudi.github.io/files
+/CV.pdf %}
+  {% shahabdavoudi.github.io/files
+/CV.pdf
+ %}</ul>
+  
