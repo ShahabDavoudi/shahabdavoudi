@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Shahab Davoudi Kashani Personal Website
+About
 ======
 
-I am Shahab Davoudi Kashani, an enthusiastic and dedicated environmental engineer with a keen interest in sustainable energy solutions. Holding a Master's degree in Environmental Engineering, I am driven by a passion for continuous learning and staying up-to-date with the ever-evolving field of waste conversion and renewable energy technologies.
+Hello! I'm Shahab Davoudi Kashani, a passionate environmental engineer. As a recent graduate with a Master's degree in Chemical Engineering with a specialization in Environmental Engineering from the University of Tehran, I am driven by a deep commitment to sustainable solutions for a better tomorrow.
+
 
 My main research interests include:
 
@@ -21,19 +22,19 @@ My main research interests include:
 -Machine Learning for Process Optimization
 -Simulation
 
-Academic Pursuits
-**
+My Background and Journey
 ======
-I find immense fulfillment in being part of the academic world, where challenging research and nurturing the minds of future engineers go hand in hand. Guiding students through research endeavors and academic projects is a privilege I deeply cherish.
+After receiving my Bachelor's degree in Chemical Engineering from the University of Tehran, where my thesis explored the construction and performance of photovoltaic cells, I continued my academic journey at the same institution. Driven by a passion for environmental stewardship, I pursued a Master's degree in Chemical Engineering with a specialization in Environmental Engineering. My thesis focused on the hydrothermal gasification of cigarette filters for hydrogen production, showcasing my commitment to innovative waste conversion technologies.
 
+During my studies, I actively engaged in research projects, including simulating hydrogen production from distillery wastewater, investigating refinery waste conversion to bio-oil, and studying the pyrolysis of algal biomass and organic waste. These experiences have shaped my commitment to finding sustainable solutions to environmental challenges.
 
 Sustainable Solutions for a Better Tomorrow
 ======
 
-In my view, environmental stewardship is not confined to laboratories—it is a guiding force for society's progress towards a sustainable future. I am committed to contributing to this movement, striving to advance the boundaries of knowledge and technology in the realm of waste conversion and renewable energy.
+Through conferences, workshops, and consultations, I actively contribute to the global dialogue on waste conversion, renewable energy, and sustainable development. My ultimate goal is to leverage my expertise and passion to create a more sustainable future for generations to come.
 
 Seeking PhD Opportunities
 ------
 
-If you are seeking motivated PhD candidates who share a passion for cutting-edge research in the aforementioned domains, I would be honored if you considered me as a potential candidate. My dedication to environmental engineering and sustainable solutions is unwavering.ple, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+If you seek a motivated researcher to join your team, I would be honored to discuss potential opportunities and collaborate on advancing sustainable solutions for a better world.
 
