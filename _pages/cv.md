@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Chemical Engineering-Environmental , University of Tehran, 2023
+* M.S. in Chemical Engineering-Environmental, University of Tehran, 2023
 * B.S. in Chemical Engineering, University of Tehran, 2019
 
   
