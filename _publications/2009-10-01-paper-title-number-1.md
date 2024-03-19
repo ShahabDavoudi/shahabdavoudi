@@ -1,9 +1,9 @@
 ---
 title: " Hydrogen Production from Cigarette Filters Using Catalytic Hydrothermal Gasification Technology "
 collection: publications
-permalink: /publication/2024-paper-title-number-1
+permalink: /publication/2024-10-10-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-10-10
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ' Davoudi Kashani,S., Tavakoli, O., & Tavakoli, O.'
