@@ -49,10 +49,3 @@ Service and leadership
 ======
 Operator at GTL lab 
 
-Download Full Version
-    {% shahabdavoudi.github.io/files
-/CV.pdf %}
-  {% shahabdavoudi.github.io/files
-/CV.pdf
- %}</ul>
-  
