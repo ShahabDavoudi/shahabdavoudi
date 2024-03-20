@@ -1,5 +1,5 @@
 ---
-title: "ML by Coursera"
+title: "ML by 88 jj"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Mlcerf.png'>"
 collection: Courses
 ---
