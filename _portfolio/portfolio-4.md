@@ -1,6 +1,6 @@
 ---
 title: "Circular Economy - Sustainable Materials Management"
-excerpt: " Circular Economy - Sustainable Materials Management: Exploring sustainable practices for resource management. <br/><img src='/images/sus.png'>"
+excerpt: "  <br/><img src='/images/sus.png'>"
 collection: Courses
 ---
 
