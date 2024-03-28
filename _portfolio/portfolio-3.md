@@ -9,4 +9,4 @@ EPFL's Municipal Solid Waste Management course delves into innovative solutions 
 
 Certificates link:
 
-https://www.coursera.org/account/accomplishments/verify/SXV7AQUSZ48Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+https://coursera.org/share/e6fd615a2784ccdad9758e2cf74a076c
