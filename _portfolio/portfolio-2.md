@@ -1,6 +1,6 @@
 ---
 title: "Nanotechnology and Nanosensors, Part1"
-excerpt: "Technion's Nanotech & Nanosensors Part 1: Explore fundamentals & sensor apps. <br/><img src='/images/nano.png'>"
+excerpt: " <br/><img src='/images/nano.png'>"
 collection: Courses
 ---
 
