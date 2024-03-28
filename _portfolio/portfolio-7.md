@@ -1,4 +1,3 @@
-
 ---
 title: "Industrial Biotechnology"
 excerpt: " <br/><img src='/images/indbio.png'>"
