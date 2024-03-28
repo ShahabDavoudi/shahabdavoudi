@@ -10,3 +10,5 @@ Stanford University's Coursera course on Machine Learning, led by Professor Andr
 Certificate link:
 
 https://coursera.org/share/13d16967ee48054850fbcc97187372bc
+<a href="https://coursera.org/share/13d16967ee48054850fbcc97187372bc
+">Download Full Version</a>
