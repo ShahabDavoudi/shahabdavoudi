@@ -1,11 +1,8 @@
 ---
-title: "Nanotechnology and Nanosensors, Part1"
-excerpt: " <br/><img src='/images/nano.png'>"
+title: "Photocatalysts"
+excerpt: " <br/><img src='/images/photo.png'>"
 collection: Courses
 ---
 
 
-Technion's Nanotechnology and Nanosensors, Part 1, provides a comprehensive dive into the foundational principles of nanotechnology and its practical applications in sensor technology. Participants delve into nanoscale materials, fabrication techniques, and characterization methods crucial for developing cutting-edge nanosensors. With a focus on real-world applications in healthcare, environmental monitoring, and electronics, this course equips learners to contribute to impactful research and innovation in industries requiring sensitive, miniaturized sensing devices.
-Certificates link:
-
-https://coursera.org/share/9d2a857a896d21053575444a20969608
+University of Qom's course on Photocatalysts delves into the principles and applications of photocatalysis. Participants engage in a comprehensive study of the mechanisms and properties of photocatalysts, with a focus on their role in environmental remediation, energy conversion, and sustainable technology. Through theoretical lectures and practical exercises, learners gain insights into the design, synthesis, and characterization of photocatalytic materials. By understanding the fundamental concepts and exploring real-world applications, participants are equipped to contribute to advancements in environmental science, renewable energy, and green chemistry.
