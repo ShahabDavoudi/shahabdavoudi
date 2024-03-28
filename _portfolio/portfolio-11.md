@@ -5,4 +5,4 @@ collection: Courses
 ---
 
 asdfghjkl;'
-" <br/><img src='/images/ibb.pdf'>"
+(https://shahabdavoudi.github.io/files/ibb.pdf)
