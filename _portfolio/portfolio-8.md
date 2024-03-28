@@ -1,6 +1,6 @@
 
 ---
-title: "Introduction to Algae"
+title: " Introduction to Algae"
 excerpt: " <br/><img src='/images/int algae.png'>"
 collection: Courses
 ---
