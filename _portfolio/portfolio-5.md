@@ -1,7 +1,12 @@
 ---
-title: "ML by Coursera"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Mlcerf.png'>"
+title: "Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food"
+excerpt: " <br/><img src='/images/nexsus.png'>"
 collection: Courses
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+ UAB's course on the Sustainability of Social-Ecological Systems offers a comprehensive examination of the intricate interplay between water, energy, and food resources. Through an interdisciplinary approach, participants explore the challenges and opportunities associated with managing these interconnected systems sustainably. By analyzing case studies and employing systems thinking methodologies, learners gain insights into the complex dynamics shaping the nexus between water, energy, and food. This course equips participants with the knowledge and skills necessary to develop holistic strategies for enhancing resilience and promoting sustainability within social-ecological systems.
+ 
+Certificates link:
+
+https://coursera.org/share/c6abe0682b3e0a846a04e5f2a55384b6
