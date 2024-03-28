@@ -1,4 +1,3 @@
-
 ---
 title: "Simulation of hydrogen production from Distillery Wastewater in supercritical water process and optimization by machine learning. ( in preparation)"
 collection: publications
