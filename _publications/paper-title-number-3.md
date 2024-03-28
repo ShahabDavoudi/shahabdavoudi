@@ -1,7 +1,6 @@
 ---
 title: "Refinery Waste to Bio-Oil: Catalytic Hydrothermal Liquefaction of Oily Sludge "
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'submitted to a journal for publication.'
 date: 2024-12-12
 venue: 'My paper is under consideration for publication in the journal 'Fuel'.'
