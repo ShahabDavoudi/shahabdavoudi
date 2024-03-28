@@ -1,6 +1,6 @@
 ---
 title: "ML by Coursera"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Mlcerf.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/files/indusbio.pdf'>"
 collection: Courses
 ---
 
