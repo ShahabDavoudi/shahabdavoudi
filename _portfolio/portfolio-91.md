@@ -9,4 +9,4 @@ I have actively pursued professional development opportunities to expand my know
 
 Download all certificates in a single file below:
 
-<br/><file src='/files/ibb.pdf'>
+<a href="/files/ibb.pdf">Download Full Version</a>
