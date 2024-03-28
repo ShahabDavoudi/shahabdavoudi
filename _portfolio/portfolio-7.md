@@ -1,7 +1,13 @@
+
 ---
-title: "ML by Coursera"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Mlcerf.png'>"
+title: "Industrial Biotechnology"
+excerpt: " <br/><img src='/images/indbio.png'>"
 collection: Courses
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+University of Manchester's Industrial Biotechnology course provides a comprehensive exploration of the applications and techniques utilized in industrial bioprocesses. Covering topics such as enzyme technology, fermentation, and genetic engineering, participants delve into the interdisciplinary field of biotechnology with a focus on industrial applications. Through hands-on laboratory sessions and theoretical lectures, learners gain practical skills and theoretical knowledge necessary for success in the biotechnology industry. This course equips participants with the expertise to contribute to advancements in bio-based products, renewable energy, and sustainable manufacturing processes.
+
+Certificates link:
+
+https://coursera.org/share/cb082719534f9b2cc2b386d9a441c589
