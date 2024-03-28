@@ -1,4 +1,3 @@
-
 ---
 title: "Algae Biotechnology"
 excerpt: " <br/><img src='/images/algae bio.png'>"
