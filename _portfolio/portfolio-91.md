@@ -9,4 +9,4 @@ I have actively pursued professional development opportunities to expand my know
 
 Download all certificates in a single file below:
 
-(https://shahabdavoudi.github.io/files/ibb.pdf)
+/files/ibb.pdf
