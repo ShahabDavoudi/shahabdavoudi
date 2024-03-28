@@ -1,6 +1,6 @@
 ---
 title: "Machine learning"
-excerpt: "Stanford's Coursera Machine Learning course: Fundamental insights & practical applications. <br/><img src='/images/Mlcerf.png'>"
+excerpt: " <br/><img src='/images/Mlcerf.png'>"
 collection: Courses
 ---
 
@@ -9,4 +9,4 @@ Stanford University's Coursera course on Machine Learning, led by Professor Andr
 
 Certificates link:
 
-https://www.coursera.org/account/accomplishments/verify/JXLTF4PHVSV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+https://coursera.org/share/13d16967ee48054850fbcc97187372bc
