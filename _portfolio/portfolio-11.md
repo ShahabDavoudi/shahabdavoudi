@@ -1,7 +1,8 @@
 ---
 title: "University of Tehran's Analysis Equipment Workshops"
-excerpt: " <br/><img src='/images/ibb.pdf'>"
+excerpt: " "
 collection: Courses
 ---
 
 asdfghjkl;'
+" <br/><img src='/images/ibb.pdf'>"
