@@ -1,7 +1,12 @@
 ---
-title: "ML by Coursera"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/indusbio.pdf'>"
+title: "Circular Economy - Sustainable Materials Management"
+excerpt: " Circular Economy - Sustainable Materials Management: Exploring sustainable practices for resource management. <br/><img src='/images/sus.png'>"
 collection: Courses
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+ Circular Economy - Sustainable Materials Management is a collaborative course offered by multiple partners, providing an in-depth exploration of sustainable practices in resource management. Participants delve into the principles of the circular economy, focusing on strategies to minimize waste and maximize resource efficiency. Through interdisciplinary perspectives and case studies, learners gain insights into innovative approaches for designing products, processes, and systems that prioritize sustainability. By understanding the interconnectedness of material flows and environmental impacts, participants are empowered to contribute to the transition toward a more sustainable and regenerative economy.
+ 
+Certificates link:
+
+https://coursera.org/share/e2abf7a634fc86b0ea1a624731f6ef76
