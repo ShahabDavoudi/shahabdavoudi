@@ -1,4 +1,3 @@
-
 ---
 title: "Municipal Solid Waste Management in Developing Countries"
 excerpt: "EPFL's Municipal Solid Waste Management in Developing Countries: Solutions for sustainable waste management. <br/><img src='/images/Waste.png'>"
