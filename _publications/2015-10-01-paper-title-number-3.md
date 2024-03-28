@@ -1,5 +1,5 @@
 ---
-title: "Refinery Waste to Bio-Oil: Catalytic Hydrothermal Liquefaction of Oily Sludge(submitted to the journal)"
+title: "Refinery Waste to Bio-Oil: Catalytic Hydrothermal Liquefaction of Oily Sludge "
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'submitted to a journal for publication.'
