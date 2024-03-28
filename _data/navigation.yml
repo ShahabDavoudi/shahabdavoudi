@@ -10,11 +10,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Talks"
+  - title: "Lab's Life"
     url: /talks/    
     
-  - title: "Professional training and Certificates"
+  - title: "Professional Training and Courses"
     url: /portfolio/
     
-  - title: "Guide"
-    url: /markdown/
+
