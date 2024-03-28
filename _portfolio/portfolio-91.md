@@ -9,4 +9,4 @@ I have actively pursued professional development opportunities to expand my know
 
 Download all certificates in a single file below:
 
-<a href="/files/CV.pdf">Download Full Version</a>
+<a href="/files/CV.pdf">Certificates</a>
