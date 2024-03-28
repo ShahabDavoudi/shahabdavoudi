@@ -49,3 +49,4 @@ Service and leadership
 ======
 Operator at GTL lab 
 
+<a href="/files/CV.pdf">Download Full Version</a>
