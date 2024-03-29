@@ -1,7 +1,7 @@
 ---
 title: "Teacher Assistant for Mass Transfer at University of Tehran"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2024-spring-ta-mass-transfer
 venue: " University of Tehran, Department of Chemical Engineering"
 date: 2024-02-01
