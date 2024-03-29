@@ -26,12 +26,3 @@ This course was taught by <a href="https://scholar.google.com/citations?user=IVZ
 
 
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
