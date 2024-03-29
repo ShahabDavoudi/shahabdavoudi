@@ -23,6 +23,3 @@ This course was taught by <a href="https://scholar.google.com/citations?user=IVZ
 •	Offered regular office hours and one-on-one support to students encountering conceptual or computational challenges related to mass transfer.
 
 •	Mentored student teams on mass transfer design projects, guiding problem formulation, modeling approaches, and result analysis.
-
-
-
