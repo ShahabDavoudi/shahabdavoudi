@@ -8,7 +8,8 @@ date: 2023-10-01
 location: "Tehran, Iran"
 ---
 This course was taught by <a href="https://scholar.google.com/citations?user=IVZdp4MAAAAJ&hl=en">Dr. Omid Tavakoli</a>. Some of my responsibilities are mentioned below:
-<a href="https://shahabdavoudi.github.io/teaching/2014-spring-teaching-1.md" rel="permalink">Read more</a>•	Prepared comprehensive weekly materials covering key concepts, derivations, and example problems in mass transfer operations.
+
+•	Prepared comprehensive weekly materials covering key concepts, derivations, and example problems in mass transfer operations.
 
 •	Designed and graded assignments to reinforce students' understanding of mass transfer principles, including diffusion, convection, and separation processes.
 
@@ -21,6 +22,8 @@ This course was taught by <a href="https://scholar.google.com/citations?user=IVZ
 •	Offered regular office hours and one-on-one support to students encountering conceptual or computational challenges related to mass transfer.
 
 •	Mentored student teams on mass transfer design projects, guiding problem formulation, modeling approaches, and result analysis.
+
+<a href="https://shahabdavoudi.github.io/teaching/2014-spring-teaching-1.md" rel="permalink">Read more</a>
 
 •	Prepared comprehensive weekly materials covering key concepts, derivations, and example problems in mass transfer operations.
 
