@@ -8,7 +8,7 @@ date: 2023-09-25
 location: "Tehran, Iran"
 ---
 This course was taught by <a href="https://scholar.google.com/citations?user=IVZdp4MAAAAJ&hl=en">Dr. Omid Tavakoli</a>. Some of my responsibilities are mentioned below:
-<a href="https://shahabdavoudi.github.io/teaching/2023-fall-ta-hysical-chemistry" rel="permalink">Read more</a>
+<a href="https://shahabdavoudi.github.io/teaching/2023-fall-ta-physical-chemistry" rel="permalink">Read more</a>
 
 •	Curated weekly instructional materials, including detailed lecture notes, practice problems, and quizzes, covering core physical chemistry concepts to supplement classroom learning.
 
