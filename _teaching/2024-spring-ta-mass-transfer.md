@@ -2,13 +2,13 @@
 title: "Teacher Assistant for Mass Transfer at University of Tehran"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/2024-spring-ta-mass-transfer.md
+permalink: /teaching/2024-spring-ta-mass-transfer
 venue: " University of Tehran, Department of Chemical Engineering"
 date: 2024-02-01
 location: "Tehran, Iran"
 ---
 This course was taught by <a href="https://scholar.google.com/citations?user=IVZdp4MAAAAJ&hl=en">Dr. Omid Tavakoli</a>. Some of my responsibilities are mentioned below:
-<a href="https://shahabdavoudi.github.io/teaching/2024-spring-ta-mass-transfer.md" rel="permalink">Read more</a>
+<a href="https://shahabdavoudi.github.io/teaching/2024-spring-ta-mass-transfer" rel="permalink">Read more</a>
 
 •	Prepared comprehensive weekly materials covering key concepts, derivations, and example problems in mass transfer operations.
 
