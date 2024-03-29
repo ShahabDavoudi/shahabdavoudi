@@ -1,7 +1,7 @@
 ---
 title: "Teacher Assistant for Sustainable Energy at University of Tehran"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2023-fall-ta-sustainable-energy
 venue: " University of Tehran, Department of Chemical Engineering"
 date: 2023-09-25
