@@ -1,0 +1,41 @@
+title: "Process Simulations"
+collection: talks
+type: "Simulation"
+permalink: /talks/2022-03-01-talk-1
+venue: "Experience "
+date: 2021-03-01
+location: "Tehran, Iran"
+---
+
+Hydrogen production from distillery wastewater
+======
+
+The utilization of waste streams as feedstock presents a dual benefit of waste management and renewable energy generation. In this context, distillery wastewater emerges as a particularly promising resource due to its organic content and abundance in certain industrial regions. Leveraging advancements in process engineering and computational techniques, this article delves into the simulation of hydrogen production from distillery wastewater within a supercritical water environment. The use of supercritical water offers a transformative platform for rapid and efficient reactions, while machine learning-driven optimization promises to fine-tune operational parameters for maximum yield and sustainability. 
+
+<a href="https://shahabdavoudi.github.io/talks/2022-03-01-talk-1" rel="permalink">Read more</a>
+
+<br/><img src='/images/aspensim.png'>
+Process flow diagram (PFD) of hydrogen production from distillery wastewater.
+
+<br/><img src='/images/mlaspen.png'>
+Algorithms Used for Data Analysis: Random Forest (top left), ANN (top right), genetic algorithm (lower left).
+
+
+
+Designing an ammonia production plant 
+======
+
+Our study revolved around designing an efficient ammonia production plant by integrating Aspen HYSYS for process simulation and Camfar III for economic estimation. Aspen HYSYS enabled precise modeling of the production process, including feedstock preparation, synthesis reactions, and product distribution, while Camfar III provided tools for cost estimation, financial analysis, and profitability assessment. The combination of these software platforms allowed for a comprehensive approach to plant design, ensuring both technical feasibility and economic viability.
+
+
+<br/><img src='/images/ammonia.png'>
+Process flow diagram (PFD) of ammonia production plant.
+
+<br/><img src='/images/cost.png'>
+Economic evaluation with Camfar III.
+
+
+
+
+
+
