@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shahab Davoudi Kashani Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shahab Davoudi Kashani"
 description              : &description "Shahab Davoudi Kashani "
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  https://www.linkedin.com/in/shahab-davoudi/
+  linkedin         :  shahab-davoudi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
