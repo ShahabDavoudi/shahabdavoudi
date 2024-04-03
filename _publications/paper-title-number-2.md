@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is currently under preparation and will be completed soon. Once finished, it will be submitted to a journal for publication.'
 date: 2024-12-12
 venue: 'Unknown'
-citation: 'Shahab Davoudi Kashani , Omid Tavakoli'
+citation: 'Shahab Davoudi Kashani , Mostafa Ghiami ,  Omid Tavakoli'
 ---
 
 
