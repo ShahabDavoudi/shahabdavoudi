@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Chemical Engineering-Environmental, University of Tehran, 2023
+* M.S. in Chemical Engineering-Environmental, University of Tehran, 2024
 * B.S. in Chemical Engineering, University of Tehran, 2019
 
   
@@ -20,33 +20,26 @@ Skills
 
 | Skill            | Abilities   |
 | --------         | ------ | 
-| Laboratory skills| Highly skilled in working with reactors, fault detection, and catalyst synthesis.   | 
-| Analysis equipment  | Gas chromatography, GC-MS, HPLC, TGA, Mass Spectrometry.   |
+| Laboratory skills| Skilled in working with general laboratory equipment including autoclaves,
+PH meters, ovens, and furnaces, as well as highly experienced in fault detection, and catalyst
+synthesis.   | 
+| Analysis equipment  |  GC-MS, HPLC, TGA, Mass Spectrometry.   |
 | Software  | MS Office, Python, MATLAB, Aspen Hysys, Aspen Plus, Minitab, Design Expert.   |
 | Softskills  | Creative, Adaptable, Leadership, Communication, Teamwork.   |
-
-Publications
-======
-*	Simulation of hydrogen production from Distillery Wastewater in supercritical water process and optimization by machine learning. ( in preparation)
-*	Hydrogen production from cigarette filters using catalytic supercritical water gasification technology(in preparation)
-*	Refinery Waste to Bio-Oil: Catalytic Hydrothermal Liquefaction of Oily Sludge(submitted to the journal)
-*	Mechanistic Investigation of Biofuel Production from Algal Biomass and Organic Waste via Nano-Catalytic Pyrolysis Process ( in preparation)
 
 
 Language
 ======
   Persian: Native or Bilingual Proficiency.
+  English: TOEFL iBT: 90 ( R: 26, L: 23, S: 21, W: 20)
   
 Teaching
 ======
 
 * Teacher Assistant for Mass Transfer at University of Tehran 
-* Teacher Assistant for Sustainable Energy at University of Tehran 
 * Teacher Assistant for Physical Chemistry at University of Tehran 
 
 
 Service and leadership
 ======
 Operator at GTL lab 
-
-<a href="/files/CV.pdf">Download Full Version</a>
