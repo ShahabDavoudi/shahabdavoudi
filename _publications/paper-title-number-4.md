@@ -1,7 +1,6 @@
 ---
 title: "Mechanistic Investigation of Biofuel Production from Algal Biomass and Organic Waste via Nano-Catalytic Pyrolysis Process ( in preparation)"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is currently under preparation and will be completed soon. Once finished, it will be submitted to a journal for publication.'
 date: 2024-12-12
 venue: 'Unknown'
