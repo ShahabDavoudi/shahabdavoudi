@@ -20,9 +20,7 @@ Skills
 
 | Skill            | Abilities   |
 | --------         | ------ | 
-| Laboratory skills| Skilled in working with general laboratory equipment including autoclaves,
-PH meters, ovens, and furnaces, as well as highly experienced in fault detection, and catalyst
-synthesis.   | 
+| Laboratory skills| Skilled in working with general laboratory equipment including autoclaves, PH meters, ovens, and furnaces, as well as highly experienced in fault detection, and catalyst synthesis.   | 
 | Analysis equipment  |  GC-MS, HPLC, TGA, Mass Spectrometry.   |
 | Software  | MS Office, Python, MATLAB, Aspen Hysys, Aspen Plus, Minitab, Design Expert.   |
 | Softskills  | Creative, Adaptable, Leadership, Communication, Teamwork.   |
