@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shahab Davoudi Kashani"
-baseurl                  : "https://shahabdavoudi.github.io/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://shahabdavoudi.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
